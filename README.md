@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/gavog">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gavog&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavog&layout=compact&langs_count=6&theme=blue_navy"/>
 </div>
 <div style="display: inline_block"><br>
